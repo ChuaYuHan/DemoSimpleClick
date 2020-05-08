@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoSimpleClick</string>
+    <string name="display">Display</string>
+    <string name="enter">Enter something</string>
+    <string name="show">Display what user enters</string>
+    <string name="tbtn">ToggleButton</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+
+
+</resources>
